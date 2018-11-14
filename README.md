@@ -17,7 +17,7 @@ o [Miniconda](https://conda.io/miniconda.html) (Miniconda es mucho más liviano)
 Verifica tener el `$PATH` correcto, y luego instala las dependencias usando `conda`:
 
 ```
-conda install gensim jupyter
+conda install gensim jupyter ipython
 ```
 
 ## Datos
