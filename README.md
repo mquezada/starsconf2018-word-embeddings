@@ -50,7 +50,9 @@ print(vectors.most_similar(['adiós']))
 
 El output debe verse como lo siguiente:
 
-```[('despedida', 0.691421627998352), ('despedirse', 0.6398125290870667), ('suspiro', 0.5772554874420166), ('despide', 0.5664263963699341), ('despedirme', 0.5651067495346069), ('querida', 0.5462957620620728), ('beso', 0.5451434850692749), ('llora', 0.5426937937736511), ('despedimos', 0.5414513945579529), ('despidieron', 0.5407767295837402)]``` 
+```
+[('despedida', 0.691421627998352), ('despedirse', 0.6398125290870667), ('suspiro', 0.5772554874420166), ('despide', 0.5664263963699341), ('despedirme', 0.5651067495346069), ('querida', 0.5462957620620728), ('beso', 0.5451434850692749), ('llora', 0.5426937937736511), ('despedimos', 0.5414513945579529), ('despidieron', 0.5407767295837402)]
+``` 
 
 Si es así, todo bien. Si no, puedes abrir un issue y trataremos de ayudarte.
 
