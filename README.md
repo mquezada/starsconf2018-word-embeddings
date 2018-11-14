@@ -1,6 +1,6 @@
 # Mini-workshop: Representaciones vectoriales de palabras basadas en redes neuronales
 
-Esta página describe los requisitos y los enlaces de descarga para el "mini-workshop" de la Starsconf 2018 en Santiago, Chile.
+Esta página describe los requisitos y los enlaces de descarga para el "mini-workshop" de la [Starsconf 2018](https://www.starsconf.com/).
 
 ## Requisitos
 
@@ -24,4 +24,6 @@ Word Embeddings obtenidos con [fastText](https://github.com/facebookresearch/fas
 - 300K vectores (281 MB): [http://dcc.uchile.cl/~jperez/word-embeddings/fasttext-sbwc.300k.vec.gz](http://dcc.uchile.cl/~jperez/word-embeddings/fasttext-sbwc.300k.vec.gz) 
 - 855K vectores (801 MB): [http://dcc.uchile.cl/~jperez/word-embeddings/fasttext-sbwc.vec.gz](http://dcc.uchile.cl/~jperez/word-embeddings/fasttext-sbwc.vec.gz) 
 
+## Referencias
 
+- Word embeddings en español: [https://github.com/uchile-nlp/spanish-word-embeddings](https://github.com/uchile-nlp/spanish-word-embeddings)
