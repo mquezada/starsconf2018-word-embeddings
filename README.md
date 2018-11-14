@@ -24,7 +24,7 @@ conda install gensim jupyter
 
 ## Datos
 
-Word embeddings de palabras en español [1] computados con [fastText](https://github.com/facebookresearch/fastText):
+Los siguientes son *word embeddings* de palabras en español [1] computados con [fastText](https://github.com/facebookresearch/fastText). Hay tres archivos de distintos tamaños, para el workshop basta que descargues uno de ellos (dependiendo del espacio que quieras usar y la cantidad de RAM que tengas para poder cargarlos en tu computador después). 
 
 - 100K vectores (94 MB): [http://dcc.uchile.cl/~jperez/word-embeddings/fasttext-sbwc.100k.vec.gz](http://dcc.uchile.cl/~jperez/word-embeddings/fasttext-sbwc.100k.vec.gz) 
 - 300K vectores (281 MB): [http://dcc.uchile.cl/~jperez/word-embeddings/fasttext-sbwc.300k.vec.gz](http://dcc.uchile.cl/~jperez/word-embeddings/fasttext-sbwc.300k.vec.gz) 
