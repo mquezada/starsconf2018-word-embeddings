@@ -2,6 +2,9 @@
 
 Esta página describe los requisitos y los enlaces de descarga para el "mini-workshop" de la [Starsconf 2018](https://www.starsconf.com/).
 
+*En este sitio iremos publicando el material, códigos y referencias respecto al taller.*
+
+
 ## Requisitos
 
 - Python 3.x
@@ -23,6 +26,26 @@ Word embeddings de palabras en español [1] computados con [fastText](https://gi
 - 100K vectores (94 MB): [http://dcc.uchile.cl/~jperez/word-embeddings/fasttext-sbwc.100k.vec.gz](http://dcc.uchile.cl/~jperez/word-embeddings/fasttext-sbwc.100k.vec.gz) 
 - 300K vectores (281 MB): [http://dcc.uchile.cl/~jperez/word-embeddings/fasttext-sbwc.300k.vec.gz](http://dcc.uchile.cl/~jperez/word-embeddings/fasttext-sbwc.300k.vec.gz) 
 - 855K vectores (801 MB): [http://dcc.uchile.cl/~jperez/word-embeddings/fasttext-sbwc.vec.gz](http://dcc.uchile.cl/~jperez/word-embeddings/fasttext-sbwc.vec.gz) 
+
+## Probar que todo funcione 👌
+
+Descomprime uno de los archivos, por ejemplo, usando `gzip`:
+
+```
+gzip -d fasttext-sbwc.100k.vec.gz
+``` 
+
+Ejecuta el siguiente código en python que carga los vectores y lista las diez palabras más similares a la palabra dada:
+
+```
+from gensim.models import KeyedVectors
+import logging
+
+logging.basicConfig(format='%(asctime)s : %(message)s', level=logging.INFO)
+
+vectors = KeyedVectors.load_word2vec_format('fasttext-sbwc.100k.vec')
+print(vectors.most_similar(['adiós']))
+```
 
 ## Referencias
 
