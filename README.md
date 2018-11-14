@@ -5,7 +5,7 @@ Esta página describe los requisitos y los enlaces de descarga para el "mini-wor
 ## Requisitos
 
 - Python 3.x
-- Gensim
+- gensim
 - Jupyter Notebook
 
 Una forma sencilla de cumplir con estos requisitos es instalando [Anaconda](https://www.anaconda.com/download/) 
@@ -18,12 +18,12 @@ conda install gensim jupyter
 
 ## Datos
 
-Word Embeddings obtenidos con [fastText](https://github.com/facebookresearch/fastText):
+Word embeddings de palabras en español [1] computados con [fastText](https://github.com/facebookresearch/fastText):
 
-- 100K vectores (93.6 MB): [http://dcc.uchile.cl/~jperez/word-embeddings/fasttext-sbwc.100k.vec.gz](http://dcc.uchile.cl/~jperez/word-embeddings/fasttext-sbwc.100k.vec.gz) 
+- 100K vectores (94 MB): [http://dcc.uchile.cl/~jperez/word-embeddings/fasttext-sbwc.100k.vec.gz](http://dcc.uchile.cl/~jperez/word-embeddings/fasttext-sbwc.100k.vec.gz) 
 - 300K vectores (281 MB): [http://dcc.uchile.cl/~jperez/word-embeddings/fasttext-sbwc.300k.vec.gz](http://dcc.uchile.cl/~jperez/word-embeddings/fasttext-sbwc.300k.vec.gz) 
 - 855K vectores (801 MB): [http://dcc.uchile.cl/~jperez/word-embeddings/fasttext-sbwc.vec.gz](http://dcc.uchile.cl/~jperez/word-embeddings/fasttext-sbwc.vec.gz) 
 
 ## Referencias
 
-- Word embeddings en español: [https://github.com/uchile-nlp/spanish-word-embeddings](https://github.com/uchile-nlp/spanish-word-embeddings)
+[1] Word embeddings de palabras en español: [https://github.com/uchile-nlp/spanish-word-embeddings](https://github.com/uchile-nlp/spanish-word-embeddings)
