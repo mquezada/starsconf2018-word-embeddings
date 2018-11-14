@@ -4,6 +4,9 @@ Esta página describe los requisitos y los enlaces de descarga para el "mini-wor
 
 *En este sitio iremos publicando el material, códigos y referencias respecto al taller.*
 
+**Si asistirás al taller, te recomendamos tener listos los requisitos y descargar los datos que se muestran abajo, ya que en el lugar del evento no habrá conexión a internet.**
+
+Más información sobre el taller: [Link](https://starsconf2018a.sched.com/event/Hr8L/mini-workshop-representaciones-vectoriales-de-palabras-basadas-en-redes-neuronales)
 
 ## Requisitos
 
