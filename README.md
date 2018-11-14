@@ -1,12 +1,10 @@
 # Mini-workshop: Representaciones vectoriales de palabras basadas en redes neuronales
 
-Esta página describe los requisitos y los enlaces de descarga para el "mini-workshop" de la [Starsconf 2018](https://www.starsconf.com/).
+Esta página describe los requisitos y los enlaces de descarga para el ["mini-workshop"](https://starsconf2018a.sched.com/event/Hr8L/mini-workshop-representaciones-vectoriales-de-palabras-basadas-en-redes-neuronales) sobre representaciones vectoriales de palabras basadas en redes neuronales que se llevará a cabo en la [Starsconf](https://www.starsconf.com/) 2018.
 
 *En este sitio iremos publicando el material, códigos y referencias respecto al taller.*
 
 **Si asistirás al taller, te recomendamos tener listos los requisitos y descargar los datos que se muestran abajo, ya que en el lugar del evento no habrá conexión a internet.**
-
-Más información sobre el taller: [Link](https://starsconf2018a.sched.com/event/Hr8L/mini-workshop-representaciones-vectoriales-de-palabras-basadas-en-redes-neuronales)
 
 ## Requisitos
 
@@ -19,7 +17,7 @@ o [Miniconda](https://conda.io/miniconda.html) (Miniconda es mucho más liviano)
 Verifica tener el `$PATH` correcto, y luego instala las dependencias usando `conda`:
 
 ```
-conda install gensim jupyter
+conda install gensim jupyter ipython
 ```
 
 ## Datos
