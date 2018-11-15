@@ -13,13 +13,14 @@ Esta página describe los requisitos y los enlaces de descarga para el ["mini-wo
 - numpy
 - scikit-learn
 - Jupyter Notebook
+- tqdm
 
 Una forma sencilla de cumplir con estos requisitos es instalando [Anaconda](https://www.anaconda.com/download/) 
 o [Miniconda](https://conda.io/miniconda.html) (Miniconda es mucho más liviano).
 Verifica tener el `$PATH` correcto, y luego instala las dependencias usando `conda`:
 
 ```
-conda install gensim jupyter ipython numpy scikit-learn
+conda install gensim jupyter ipython numpy scikit-learn tqdm
 ```
 
 ## Embeddings
