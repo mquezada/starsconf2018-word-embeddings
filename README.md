@@ -22,6 +22,10 @@ Verifica tener el `$PATH` correcto, y luego instala las dependencias usando `con
 conda install gensim jupyter ipython numpy scikit-learn
 ```
 
+**Si no tienes Python, puedes usar Colaboratory de Google, accediendo al siguiente notebook y creando una copia en tu cuenta de Google:**
+
+[https://colab.research.google.com/drive/1wMBxQtP_FtGQSXz_mFad5kOndGkZTLl7](https://colab.research.google.com/drive/1wMBxQtP_FtGQSXz_mFad5kOndGkZTLl7)
+
 ## Embeddings
 
 Los siguientes son *word embeddings* de palabras en español [1] computados con [fastText](https://github.com/facebookresearch/fastText). Hay tres archivos de distintos tamaños. Para el workshop basta que descargues uno de ellos (dependiendo del espacio que quieras usar y la cantidad de RAM que tengas para poder cargarlos en tu computador después). 
