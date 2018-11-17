@@ -2,9 +2,15 @@
 
 Esta página describe los requisitos y los enlaces de descarga para el ["mini-workshop"](https://starsconf2018a.sched.com/event/Hr8L/mini-workshop-representaciones-vectoriales-de-palabras-basadas-en-redes-neuronales) sobre representaciones vectoriales de palabras basadas en redes neuronales que se llevará a cabo en la [Starsconf](https://www.starsconf.com/) 2018.
 
-*En este sitio iremos publicando el material, códigos y referencias respecto al taller.*
-
 **Si asistirás al taller, te recomendamos tener listos los requisitos y descargar los datos que se muestran abajo, ya que en el lugar del evento no habrá conexión a internet.**
+
+## Nuevo: Código y Presentación
+
+**Ya está disponible el código del taller.** Después de que sigas las instrucciones para descargar los datos podrás ejecutar el mismo código que vimos en el taller, o ejecutarlo directamente en Colab. También está disponible la presentaciónn que usamos.
+
+- [Presentación](https://docs.google.com/presentation/d/12VDHEnamY2TiF5aZ17ngRU4Ifn4j3YV_Y7BVtZYLooM/edit?usp=sharing)
+- [Notebook de jupyter](https://github.com/mquezada/starsconf2018-word-embeddings/blob/master/code/Workshop.ipynb)
+- [Notebook de Colab](https://colab.research.google.com/drive/1l3Ozf2E1J7Vqh64iewKF9QGUdno-gPG-)
 
 ## Requisitos
 
@@ -22,9 +28,7 @@ Verifica tener el `$PATH` correcto, y luego instala las dependencias usando `con
 conda install gensim jupyter ipython numpy scikit-learn
 ```
 
-**Si no tienes Python, puedes usar Colaboratory de Google, accediendo al siguiente notebook y creando una copia en tu cuenta de Google:**
-
-[https://colab.research.google.com/drive/1wMBxQtP_FtGQSXz_mFad5kOndGkZTLl7](https://colab.research.google.com/drive/1wMBxQtP_FtGQSXz_mFad5kOndGkZTLl7)
+**Si no tienes Python, puedes usar Colaboratory de Google, accediendo al [siguiente notebook](https://colab.research.google.com/drive/1l3Ozf2E1J7Vqh64iewKF9QGUdno-gPG-) y creando una copia en tu cuenta de Google:**
 
 ## Embeddings
 
