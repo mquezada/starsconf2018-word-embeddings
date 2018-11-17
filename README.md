@@ -66,6 +66,9 @@ El output debe verse como lo siguiente:
 
 Si es así, todo bien. Si no, puedes abrir un issue y trataremos de ayudarte.
 
+## Contacto
+
+Escríbenos a mq@botlab.cl o a jp@botlab.cl si tienes preguntas.
 
 ## Referencias
 
