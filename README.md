@@ -6,7 +6,7 @@ Esta página describe los requisitos y los enlaces de descarga para el ["mini-wo
 
 ## Nuevo: Código y Presentación
 
-**Ya está disponible el código del taller.** Después de que sigas las instrucciones para descargar los datos podrás ejecutar el mismo código que vimos en el taller, o ejecutarlo directamente en Colab. También está disponible la presentaciónn que usamos.
+**Ya está disponible el código del taller.** Después de que sigas las instrucciones para descargar los datos podrás ejecutar el mismo código que vimos en el taller. También está disponible la presentaciónn que usamos. Si no quieres/puedes instalar lo necesario, puedes ejecutar todo directamente desde Colab.
 
 - [Presentación](https://docs.google.com/presentation/d/12VDHEnamY2TiF5aZ17ngRU4Ifn4j3YV_Y7BVtZYLooM/edit?usp=sharing)
 - [Notebook de jupyter](https://github.com/mquezada/starsconf2018-word-embeddings/blob/master/code/Workshop.ipynb)
